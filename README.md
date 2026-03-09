@@ -1,5 +1,6 @@
 Table on Context:
 #This is to save my old projects from Cengage
+#Open the Files go to the chapter then open src and the chapter again to open it.
 
 #Chapter 1: Introduction
 #BurmaShave (Prints a series of Burma Shave advertising lines)
